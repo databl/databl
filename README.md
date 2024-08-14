@@ -21,10 +21,6 @@ Our expertise extends beyond managed services, offering specialised professional
 - **Security-First Approach**: Our services are designed with security at their core, ensuring your business is protected from the ground up.
 - **Scalable Solutions**: We support your growth with services that adapt and scale as your business expands.
 
-## Get in Touch
-
-To learn more about how Databl can support your business, please visit our [website](https://databl.com.au) or contact us at [connect@databl.io](mailto:connect@databl.io).
-
 ---
 
 Thank you for considering Databl for your IT and cybersecurity needs. We're excited to partner with you to ensure your technology works seamlessly, securely, and efficiently.
