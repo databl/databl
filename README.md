@@ -1,6 +1,6 @@
 # Databl Managed Services and Professional Services
 
-Welcome to **Databl** - your trusted partner in IT and cybersecurity. We specialize in delivering enterprise-grade managed services tailored for small to medium-sized businesses. In addition to our comprehensive managed services, we offer professional services across various technologies.
+Welcome to **Databl** - your trusted partner in IT and cybersecurity. We specialise in delivering enterprise-grade managed services tailored for small to medium-sized businesses. In addition to our comprehensive managed services, we offer professional services across various technologies to enterprise.
 
 ## Our Services
 
