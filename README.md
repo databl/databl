@@ -8,8 +8,8 @@ Welcome to **Databl** - your trusted partner in IT and cybersecurity. We special
 We provide end-to-end management of your IT infrastructure with a security-first approach, ensuring your business remains secure, stable, and scalable.
 
 ### Professional Services
-Our expertise extends beyond managed services, offering specialized professional services in:
-- **Splunk**: Deployment, optimization, and management.
+Our expertise extends beyond managed services, offering specialised professional services in:
+- **Splunk**: Deployment, optimisation, and management.
 - **Cribl**: Data routing, filtering, and transformation solutions.
 - **RedHat**: Linux-based solutions and enterprise-grade support.
 - **Microsoft**: Expertise across Microsoft 365, Azure, and Intune.
