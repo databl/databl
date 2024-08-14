@@ -23,7 +23,7 @@ Our expertise extends beyond managed services, offering specialised professional
 
 ## Get in Touch
 
-To learn more about how Databl can support your business, please visit our [website](https://databl.com.au) or contact us at [info@yourcompany.com](mailto:connect@databl.io).
+To learn more about how Databl can support your business, please visit our [website](https://databl.com.au) or contact us at [connect@databl.io](mailto:connect@databl.io).
 
 ---
 
